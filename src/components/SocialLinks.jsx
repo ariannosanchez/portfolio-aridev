@@ -40,7 +40,7 @@ export default function SocialLinks() {
           Whatsapp <FaWhatsapp size={30} />
         </>
       ),
-      href: '',
+      href: 'https://wa.me/960660437?text=Hola..Arianno.',
       style: 'rounded-br-md',
       download: true,
     },

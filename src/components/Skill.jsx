@@ -116,8 +116,5 @@ export const Skill = () => {
                 </div>
             </div>
         </div>
-
-
-
     )
 }
